@@ -4,9 +4,6 @@
 # Smart-Lens
 
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
-[![GitHub last commit](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)
-[![GitHub issues](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)
 [![GitHub](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)
 
 This repository contains a Next.js frontend application and a Flask backend for object detection using TensorFlow. This guide will help you set up and run the application using Docker.
@@ -109,11 +106,22 @@ Response:
 ```
 
 
+# Contributor:
+
+**Kshitiz Sharma** contributed in development of whole backend.
+
+![Kshitiz Sharma](https://media.licdn.com/dms/image/v2/D4D03AQFLS-aBdLJAhQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1694627216748?e=1729123200&v=beta&t=zFhycPI0xghCX3YGrVMNkOkWyTGLSTqmo077UN3r6vM)
+
+(https://github.com/Kshitiz19215)
+
+
+
+
 
 # License
 
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License
 
 [MIT license](./LICENSE)
 
