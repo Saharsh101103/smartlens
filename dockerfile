@@ -42,6 +42,7 @@ RUN python3 -m venv myenv
 COPY ./object-detection/requirements.txt .
 RUN . myenv/bin/activate && pip install -r requirements.txt
 RUN . myenv/bin/activate && myenv/bin/pip install opencv-python
+RUN . myenv/bin/activate && myenv/bin/pip install flask_cors
 
 # Create an entrypoint script
 RUN echo '#!/bin/bash\nsource /app/myenv/bin/activate\nexec "$@"' > /entrypoint.sh
